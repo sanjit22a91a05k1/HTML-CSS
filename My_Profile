@@ -1,0 +1,484 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+	<title>MY Profile</title>
+	<style type="text/css">
+		.menu .menus
+		{
+			margin-top: 20px;
+			margin-right: 60px;
+			float: right;
+			margin-bottom: 20px;
+
+		}
+		.menu .logo h1
+		{
+			margin-top:100px;
+			margin-left: 750px;
+			position: absolute;
+			font-size: 80px;
+			font-color: Blue;
+
+		}
+		 .menu .logo input[type=submit]
+		 {
+		 	height: 60px;
+		 	width: 200px;
+		 	margin-top: 500px;
+		 	margin-left: 600px;
+		 	position: absolute;
+		 	background: blue;
+		 	border-radius: 20px;
+		 	border-color: blue;
+		 	font-size: 20px;
+		 	color: white;
+		 }
+
+		.menu .logo img
+		{
+			height: 60px;
+			width: 200px;
+			float: left;
+
+		}
+
+		.menu .menus a
+		{
+			font-size: 20px;
+			margin-right: 10px;
+
+
+		}
+		.about_me
+		{
+			height: 600px;
+			width: 1300px;
+
+		}
+		.about_me .title
+		{
+			height: 600px;
+			margin-left: 50px;
+			width: 650px;
+			
+			float: left;
+		}
+		.about_me .image
+		{
+			height: 600px;
+			width: 500px;
+			
+			float: right;
+		}
+		.about_me .image .one
+		{
+			height: 500px;
+			width: 650px;
+			
+
+		}
+		.about_me .image .two
+		{
+			height: 100px;
+			width: 650px;
+			background-color: blue;
+		}
+		.about_me .title .hello1
+		{
+			float: left;
+			margin-right: 100px;
+			margin-left: 20px;
+		}
+		.about_me .title .hello2
+		{
+			float: left;
+
+		}
+		.about_me .title .hello3
+		{
+			float: right;
+			margin-right: 20px;
+		}
+		.sa{
+			font-size: 20px;
+			text-align: left;
+			font-family: arial;
+			color: darkslategray;
+		}
+		.a{
+			font-size: 18px;
+		}
+		.Contact_Us
+    {
+    	height: 500px;
+    	width: 80%;
+    	margin-left: 10%;
+    	
+    }
+    .Contact_Us .one
+    {
+    	height: 500px;
+    	width: 50%;
+    	float: left;
+    }
+
+    .Contact_Us .one input[type=text]
+    {
+    	height: 30px;
+    	width: 400px;
+    	margin-top: 20px;
+    	margin-left: 40px;
+    	border-radius: 5px;
+    }
+    .Contact_Us .one input[type=email]
+    {
+    	height: 30px;
+    	width: 400px;
+    	margin-top: 20px;
+    	margin-left: 40px;
+    	border-radius: 5px;
+    }
+
+    .Contact_Us .one input[type=message]
+    {
+    	height: 200px;
+    	width: 400px;
+    	margin-top: 20px;
+    	margin-left: 40px;
+    	border-radius: 5px;
+    }
+    .Contact_Us .one input[type=submit]
+    {
+    	height: 40px;
+    	width: 200px;
+    	margin-top: 20px;
+    	margin-left: 150px;
+    	background-color: purple;
+    	color: white;
+    	border-color: purple;
+    	border-radius: 10px;
+    }
+    .Experience
+    {
+    	height: 800px;
+    	width: 80%;
+    	margin-left: 10%;
+
+    }
+    .Experience .one 
+    {
+    	height: 800px;
+    	width: 48%;
+    	float: left;
+
+    }
+    .Experience .two
+    {
+    	height: 800px;
+    	width: 48%;
+    	float: right;
+
+    }
+
+	</style>
+</head>
+<body>
+	<div class="menu">
+		<div class="logo">
+			<input type="submit" name="submit" value="Download Resume">
+		<img src="logo11.jpeg">
+	</div>
+		<div class="menus">
+	<a href=""> EDUCATION</a>
+	<a href=""> SKILLS</a>
+	<a href=""> EXPERIENCE</a>
+	<a href=""> PROFILE</a>
+	<a href=""> PORTFOLIO</a>
+	<a href=""> CLIENTS</a>
+	<a href=""> CONTACTS</a>
+	</div>
+	</div>
+
+
+		<div class="image" >
+		<img src="2.jpg" width="1600px" height="600px" >
+	</div>
+
+
+    <center><h1>About Me</h1></center><br><br><hr><br>
+    <div class="about_me">
+    	<div class="title">
+    					<h1 style="text-align: center;">About Sanjit Das</h1>
+			<p style="text-align: center;">
+<p>Hi  My name is Sanjit Das  Son of mr. Kesho Das and miss shova Devi Das .I am basically from Bhardaha Saptari district Nepal.I am pursuing My B.Tech degree in computer science engineering from Aditya Engineering College.i have got a awards in Emerging Coder as well as the top 2nd in coding context which was given By Technical HUB.
+My strength is  I am a quick learner and flexible, hardworking Self Motivating and well disciplined.My hobbies are Coding , Playing cricket listening Musics and watching Movies  .... and i enjoy Coding . My weakness is overthinking. and My short term goal is to get Btech degree in Computer Science and Engineering and long term goal is to be one of the best software Engineer.<br>
+I have Completed My intermediate From Bhanu Memorial English Boarding School, Biratnagar Morang Nepal with 3.45 CGPA. and Schooling from Bal Bodh Secondary School Kanchanpur Saptari Nepal, with 3.4 GPA<br>
+I believe in learning from my past Mistake and experience.</p>
+
+.</p>
+			<hr>
+          <div class="hello1">
+          <h3>Phone</h3>
+          <p>6303783301</p> 
+            <p>+9779807058858</p> 
+          </div>
+          <div class="hello2">
+          <h3>Email</h3>
+          <p>sanjit9842@gmail.com</p>  </div>
+          <div class="hello3">
+          	  <h3>Website</h3>
+          <p>not available..<br>comming soon....</p> 
+           </div>
+    	</div>
+		<div class="image">
+			<div class="one"><img src="s16.jpeg" height="100%" width="100%"></div>
+			<div class="two" style="background:#000080;">
+				<center><a href="https://www.youtube.com/channel/UCLaYwupD4qdymQQMg4V9M2Q" target="_blank"><i class="fa-brands fa-youtube" style="font-size: 40px; padding-block-start: 30px; padding-left: 35px; color: white;"></i></a>
+				<a href="https://www.facebook.com/dassanjitkumar.das/" target="_blank"><i class="fa-brands fa-facebook" style="font-size: 40px; padding-block-start: 30px; padding-left: 35px; color: white;"></i></a>
+				<a href="https://www.linkedin.com/in/sanjit-das-793372227/" target="_blank"><i class="fa-brands fa-linkedin" style="font-size: 40px; padding-block-start: 30px; padding-left: 35px; color: white;"></i></a>
+				<a href="https://github.com/sanjit22a91a05k1" target="_blank"> <i class="fa-brands fa-github" style="font-size: 40px; padding-block-start: 30px; padding-left: 35px; color: white;"></i></a>
+				<a href="https://www.instagram.com/sanjitdas_8153/" target="_blank"><i class="fa-brands fa-instagram" style="font-size: 40px; padding-block-start: 30px; padding-left: 35px; color: white;"></i></a>
+			</center>
+			</div>
+		</div>
+	</div>
+	<hr>
+	<br><br><center><h1>Education</h1></center><br><hr><br>
+
+	<div  class="parent" style="height: 500px; width: 1550px;">
+		<div class="a" style="height: 500px; width: 450px; background: white; float: left; margin-right: 120px;">
+	<br><p class="sa"><b><center>2022-2026</center></b></p>
+	 <p style="text-align: center; margin-bottom: 0px;">Bachelor Of Technology</p>
+        <span style="font-size: 60px; color: purple; margin-top: 0px;">.</span>
+        <hr style="float: right; margin-top: 52px; 
+			border-radius: 20px; height: 2px; background-color: black; width: 428px; background-color: black;">
+	<br><p class="sa"><b>Aditya Engineering College</b></p>
+	<p>Andhra Pradesh, India <br><br>  I am currently pursuing my B.Tech degree in Computer Science and Engineering  engineering from Aditya Engineering College<br></p>
+	</div>
+	<div class="a" style="height: 500px; width: 450px; background: white; float: left;">
+	<br><p class="sa"><b><center>2018-2020</center></b></p>
+	 <p style="text-align: center; margin-bottom: 0px;">School Level Certificate</p>
+        <span style="font-size: 60px; color: purple; margin-top: 0px;">.</span>
+        <hr style="float: right; margin-top: 52px; 
+			border-radius: 20px; height: 2px; background-color: black; width: 428px; background-color: black;">
+	<br><p class="sa"><b>Bhanu Memorial Higher Secondary School</b></p>
+	<p>Biratnagar,Morang, Nepal <br><br> I have  completed my intermediate (10+2) with Science Facuilty<br>from Bhanu Memorial Higher Secondary School Scored  and 3.45 C.G.P.A</p>
+	</div>
+	<div class="a" style="height: 500px; width: 450px; background: white; float: right;">
+		<br><p class="sa"><b><center>2005-2018</center></b></p>
+	  <p style="text-align: center; margin-bottom: 0px;">Secondary Education Examination</p>
+        <span style="font-size: 60px; color: purple; margin-top: 0px;">.</span>
+        <hr style="float: right; margin-top: 52px; 
+			border-radius: 20px; height: 2px; background-color: black; width: 428px; background-color: black;">
+
+	<br><p class="sa"><b>Bal Bodh Secondary School</b></p>
+	<p>Kanchanpur,Saptari, Nepal <br><br> I have  completed my schooling from Bal Bodh Higher Secondary <br>School and Scored 3.40 G.P.A .</p>
+	</div>
+	</div>
+     <hr>
+	<div style="height:150px ;width: 100%;">
+		<center> <div style="height: 50px;width: 100%;padding-block-start: 75px;font-family: arial;font-size: 40px;color: darkslategray;"><strong>SKILLS</strong></div> </center>
+	</div>
+	<hr>
+	<div style="height: 450px;width: 100%;background: ;">
+		<div style="height: 100%;width: 50%;background: ;float: left;">
+			<div style="height: 100%;width: 10%;background: ;float: left;"></div>
+			<div style="height: 10%;width: 90%;background: ;float: right;"></div>
+			<div style="height: 90%;width: 90%;background: white; float: right;font-family: Calibri;font-size: 20px;">
+				<p style="color: gray;float: left;">Hypertext Markup Language</p>
+				<div class="w3-light-grey w3-round-xlarge" style="width: 90%; height: 10px;float: left;">
+    <div class="w3-container w3-purple w3-round-xlarge" style="width:90%;height: 10px;"></div>
+  </div><a style="float: right;font-size: 20px;font-family: arial;color: rebeccapurple;"><b>90%</b></a>
+  				<p style="color: gray;float: left;">Cascading Style Sheets
+</p>
+				<div class="w3-light-grey w3-round-xlarge" style="width: 90%; height: 10px;float: left;">
+    <div class="w3-container w3-purple w3-round-xlarge" style="width:85%;height: 10px;"></div>
+  </div><a style="float: right;font-size: 20px;font-family: arial;color: rebeccapurple;"><b>85%</b></a>
+  				<p style="color: gray;float: left;">C PROGRAMMING</p>
+				<div class="w3-light-grey w3-round-xlarge" style="width: 90%; height: 10px;float: left;">
+    <div class="w3-container w3-purple w3-round-xlarge" style="width:97%;height: 10px;"></div>
+  </div><a style="float: right;font-size: 20px;font-family: arial;color: rebeccapurple;"><b>97%</b></a>
+  				<p style="color: gray;float: left;width: 25%;">PYTHON</p>
+				<div class="w3-light-grey w3-round-xlarge" style="width: 90%; height: 10px;float: left;">
+    <div class="w3-container w3-purple w3-round-xlarge" style="width:97%;height: 10px;"></div>
+  </div><a style="float: right;font-size: 20px;font-family: arial;color: rebeccapurple;"><b>95%</b></a>
+			</div>
+		</div>
+		<div style="height: 100%;width: 50%;background: yellow;float: right;">
+			<div style="height: 100%;width: 10%;background: white;float: left;"></div>
+			<div style="height: 10%;width: 90%;background: white;float: right;"></div>
+			<div style="height: 90%;width: 90%;background: white; float: right;font-family: Calibri;font-size: 20px;">
+				<p style="color: gray;float: left;width: 25%;">JAVA</p>
+				<div class="w3-light-grey w3-round-xlarge" style="width: 90%; height: 10px;float: left;">
+    <div class="w3-container w3-purple w3-round-xlarge" style="width:90%;height: 10px;"></div>
+  </div><a style="float: right;font-size: 20px;font-family: arial;color: rebeccapurple;"><b>90%</b></a>
+  				<p style="color: gray;float: left;">JAVA SCRIPT</p>
+				<div class="w3-light-grey w3-round-xlarge" style="width: 90%; height: 10px;float: left;">
+    <div class="w3-container w3-purple w3-round-xlarge" style="width:85%;height: 10px;"></div>
+  </div><a style="float: right;font-size: 20px;font-family: arial;color: rebeccapurple;"><b>85%</b></a>
+  				<p style="color: gray;float: left;">COMMUNICATION</p>
+				<div class="w3-light-grey w3-round-xlarge" style="width: 90%; height: 10px;float: left;">
+    <div class="w3-container w3-purple w3-round-xlarge" style="width:97%;height: 10px;"></div>
+  </div><a style="float: right;font-size: 20px;font-family: arial;color: rebeccapurple;"><b>97%</b></a>
+  				<p style="color: gray;float: left;width: 25%;">C++</p>
+				<div class="w3-light-grey w3-round-xlarge" style="width: 90%; height: 10px;float: left;">
+    <div class="w3-container w3-purple w3-round-xlarge" style="width:97%;height: 10px;"></div>
+  </div><a style="float: right;font-size: 20px;font-family: arial;color: rebeccapurple;"><b>90%</b></a>
+			</div>
+  </div>
+		
+	</div>
+<center><h1>Experience</h1></center><br><hr><br><br>
+<div class="Experience" >
+	<div class="one">
+		<h2>2018-Present</h2>
+		<p>Computer Operator</p>
+		<h3>Inteligence Computer Institute</h3>
+		<p>Biratnagar, Morang, Nepal</p>
+		<p>This is my first job where i worked as computer operator. Basically my post is computer opertor but i did more work like hardware,computer trainer,photoshop etc.</p><br>
+		<h2>2019-Present</h2>
+		<p>CREATIVE DIRECTOR</p>
+		<h3>HOPLON TECH LIMITED</h3>
+		<p>Newyork USA</p>
+		<p>Duis aute irure dolor in reprehenderit in vol patate velit esse cillum dolore er fugiat nulla pari . Excepteur sint occana inna tecat cupidatat non proident.</p><br>
+		<h2>2018-Present</h2>
+		<p>CREATIVE DIRECTOR</p>
+		<h3>HOPLON TECH LIMITED</h3>
+		<p>Newyork London</p>
+		<p>Duis aute irure dolor in reprehenderit in vol patate velit esse cillum dolore er fugiat nulla pari . Excepteur sint occana inna tecat cupidatat non proident.</p><br>
+
+	</div>
+	<p style="position: absolute; font-size:70px; solid purple; left: 792px; margin-top: -60px;">.</p>
+    <hr style="position: absolute; height: 230px; border-left: 2px solid purple; left: 50%;"><br>
+    <p style="position: absolute; font-size:70px; solid purple; left: 792px; margin-top: -60px; margin-top: 190px;">.</p>
+    <hr style="position: absolute; height: 230px; border-left: 2px solid purple; left: 50%; margin-top: 262px;"><br>
+    <p style="position: absolute; font-size:70px; solid purple; left: 792px; margin-top: -60px; margin-top: 450px;">.</p>
+    <hr style="position: absolute; height: 200px; border-left: 2px solid purple; left: 50%; margin-top: 520px;">
+
+	<div class="two">
+		<h2>2020-Present</h2>
+		<p>Graphics Designer</p>
+		<h3>The Global Hub</h3>
+		<p>Bharadaha, Saptari  Nepal</p>
+		<p>This is my second job as a Graphics Designer. I've a whole six months of working experience in this company </p><br>
+		<h2>2021-Present</h2>
+		<p>Digital Marketer</p>
+		<h3>Google</h3>
+		<p>USA</p>
+		<p></p><br>
+		<h2>2018-Present</h2>
+		<p></p>
+		<h3>HOPLON TECH LIMITED</h3>
+		<p>Newyork USA</p>
+		<p>Duis aute irure dolor in reprehenderit in vol patate velit esse cillum dolore er fugiat nulla pari . Excepteur sint occana inna tecat cupidatat non proident.</p><br>
+	</div>
+</div>
+    </div>
+
+    <br><br><center><h1>PROFILE</h1></center><br><hr><br>
+    <div  class="parent" style="height: 500px; width: 1550px;">
+    <div class="a" style="height: 250px; width: 1550px;">
+    <div class="a" style="height: 250px; width: 387px;  float: left;">
+    	<center>   
+    		<a href="https://github.com/sanjit22a91a05k1" target="_blank"><img src="github.png"></a>
+    </div>
+     <div class="a" style="height: 250px; width: 387px; float: right;">
+     	<a href="https://auth.geeksforgeeks.org/user/sanjitdas7/practice"><img src="geeks.png"></a>
+     </div>
+      <div class="a" style="height: 250px; width: 387px; float: left;">
+      <a href="https://leetcode.com/sanjit22a91a05k1/" target="_blank">	<img src="leet.png"></a>
+      </div>
+       <div class="a" style="height: 250px; width: 389px; float: right;">
+       <a href="https://www.hackerrank.com/sanjit9842" target="_blank">	<img src="hacker.png"></a>
+       </div>
+    </div>
+	<div class="a" style="height: 250px; width: 1550px;">
+	<div class="a" style="height: 250px; width: 387px; float: left;">
+		<a href="https://www.codechef.com/users/sanjit9842" target="_blank"><img src="chef.png"></a>
+	</div>
+     <div class="a" style="height: 250px; width: 387px; float: right;">
+     	<a href="https://www.thecodemind.io/app/studentprofile.php" target="_blank"><img src="codemind.jpeg"></a>
+     </div>
+      <div class="a" style="height: 250px; width: 387px;float: left;">
+      	<img src="codeforce.png">
+      </div>
+       <div class="a" style="height: 250px; width: 389px;  float: right;">
+       <a href="https://www.hackerearth.com/challenges/">	<img src="earth.png"></a>
+       </div></center>
+       </div>
+    </div>
+      <hr>
+     <br><br><center><h1>PORTFOLIO</h1></center><br><hr><br>
+     <center>
+	<div style="height: 600px;width: 90%;">
+		<div style="height: 100%;width: 30%;float: left;">
+			<div style="height: 45%;width: 100%;float: ;background-image: url('s11.jpeg');background-repeat: no-repeat;background-size: 100%;"></div>
+			<div style="height: 10%;width: 100%;background: "></div>
+			<div style="height: 45%;width: 100%;background-image: url('s12.jpeg');background-repeat: no-repeat;background-size: 100%;"></div>
+		</div>
+		<div style="height: 100%;width: 30%;float: right;">
+			<div style="height: 45%;width: 100%;background-image: url('s13.jpeg');background-repeat: no-repeat;background-size: 100%;"></div>
+			<div style="height: 10%;width: 100%;"></div>
+			<div style="height: 45%;width: 100%;background-image: url('s14.jpeg');background-repeat: no-repeat;background-size: 100%;"></div>
+		</div>
+		<div style="height: 100%;width: 30%;background: orange;float: ;background-image: url('s15.jpeg');background-repeat: no-repeat;background-size: 100%;"></div>
+	</div>
+	</center>
+     
+ </div>
+     <br><br><center><h1>CLIENT</h1></center><br><hr><br>
+     <div  class="parent" style="height: 300px; width: 1550px;">
+    <div class="a" style="height: 300px; width: 221px; float: left;">
+    	<img src="cisco.png">
+    </div>
+    <div class="a" style="height: 300px; width: 221px; float: right;">
+    	<center><img src="phil.png" height="75%" width="75%"></center>
+    </div>
+    <div class="a" style="height: 300px; width: 221px;  float: left;">
+    	<center><img src="code.png" width="75%" height="100%"></center>
+    	<center><h2>CODEMIND</h2> </center>
+    </div>
+    <div class="a" style="height: 300px; width: 221px;  float: right;">
+    	<img src="amazon.png">
+    </div>
+    <div class="a" style="height: 300px; width: 221px; float: left;">
+    	<img src="apple.png">
+    </div>
+    <div class="a" style="height: 300px; width: 221px; float: right;">
+    	<img src="hp.png" height="75%">
+    </div>
+     <div class="a" style="height: 300px; width: 224px;  float: left;">
+     <img src="nasa.png">
+     </div>
+     </div>
+      <hr>
+     <center><h1>Contact_Us</h1></center><br><hr><br><br>
+<div class="Contact_Us" >
+	<div class="one">
+	<input type="text" name="Name" placeholder="Name*"><br>
+	<input type="Email" name="Email" placeholder="Email*"><br>
+	<input type="text" name="subject" placeholder="Subject*" =><br>
+	<input type="message" name="message" placeholder="message*"><br>
+	<a href=""><input type="submit" name="submit" placeholder="submit*"></a>
+	</div>
+	<div class="two">
+		<h3>Phone</h3>
+		<p>6303783301</p>
+		<p>+9779807058858</p>
+		<br>
+		<h3>Email</h3>
+		<p>sanjit9842@gmail.com</p>
+		<br>
+
+	</div>
+</div>
+ 
+</div>
+
+</body>
+</html>
