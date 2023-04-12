@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>text align property</title>
+	<style type="text/css">
+		.h1{
+			text-align: center;
+			/*text-align: left;
+			text-align: right;*/
+			text-shadow: 2px 2px  3px red, 3px 3px 5px green;
+		}
+		.p2{
+/*			text-align: center;*/
+
+			width: 600px;
+			border: 5px solid palegreen;
+			text-align: justify; // it make all the text in  equal path 
+			text-transform: uppercase;
+		text-transform: lowercase;
+			text-transform: capitalize
+		     }
+		.p1{
+
+			width: 600px;
+			border: 5px solid red;
+
+		}
+	</style>
+</head>
+<body>
+	<div class="h1">
+	<h1>sanjit</h1>
+</div>
+<div class="p2">
+<p>Hi  My name is Sanjit Das  Son of mr. Kesho Das and miss shova Devi Das .I am basically from Bhardaha Saptari district Nepal.I am pursuing My B.Tech degree in computer science engineering from Aditya Engineering College.i have got a awards in Emerging Coder as well as the top 2nd in coding context which was given By Technical HUB.
+My strength is  I am a quick learner and flexible, hardworking Self Motivating and well disciplined.My hobbies are Coding , Playing cricket listening Musics and watching Movies  .... and i enjoy Coding . My weakness is overthinking. and My short term goal is to get Btech degree in Computer Science and Engineering and long term goal is to be one of the best software Engineer.
+I have Completed My intermediate From Bhanu Memorial English Boarding School, Biratnagar Morang Nepal with 3.45 CGPA. and Schooling from Bal Bodh Secondary School Kanchanpur Saptari Nepal, with 3.4 GPA
+I believe in learning from my past Mistake and experience.</p></div>
+<div class="p1">
+<p>Hi  My name is Sanjit Das  Son of mr. Kesho Das and miss shova Devi Das .I am basically from Bhardaha Saptari district Nepal.I am pursuing My B.Tech degree in computer science engineering from Aditya Engineering College.i have got a awards in Emerging Coder as well as the top 2nd in coding context which was given By Technical HUB.
+My strength is  I am a quick learner and flexible, hardworking Self Motivating and well disciplined.My hobbies are Coding , Playing cricket listening Musics and watching Movies  .... and i enjoy Coding . My weakness is overthinking. and My short term goal is to get Btech degree in Computer Science and Engineering and long term goal is to be one of the best software Engineer.
+I have Completed My intermediate From Bhanu Memorial English Boarding School, Biratnagar Morang Nepal with 3.45 CGPA. and Schooling from Bal Bodh Secondary School Kanchanpur Saptari Nepal, with 3.4 GPA
+I believe in learning from my past Mistake and experience.</p></div>
+</body>
+</html>
