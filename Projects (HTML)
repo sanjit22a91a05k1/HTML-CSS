@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+	<link rel="stylesheet" type="text/css" href="myprofile.html">
+	<title>project</title>
+	<link rel="stylesheet" type="text/css" href="index.css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<style type="text/css">
+	.footer
+{
+	background-color:black;
+	height: 650px;
+	width: 100%;
+}
+
+.footer .text h1
+{
+	color: white; 
+    text-align: center;
+    padding-top: 80px;"
+
+}
+.footer .text2 h1
+{
+	color: white; 
+	text-align: center; 
+	padding-top: 10px;
+
+}
+
+.footer .text3
+{
+	color: white; 
+	text-align: center; 
+	padding-top: 10px;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+.footer .email input[type=text]
+{
+	height: 50px;
+	width: 400px;
+	margin-left: 30%;
+	color: black;
+	font-size: 20px;
+    
+}
+
+.footer .email input[type=button]
+{
+	height: 50px;
+	width: 100px;
+	margin-left: -4px;
+	background-color: red;
+	color: white;
+	border: 0px;
+	font-size: 20px;
+}
+
+.footer .Contact
+{
+	margin-top: 50px;
+}
+
+.footer .Contact h1
+{
+    color: red;
+	display: inline;
+}
+
+.footer .content
+{
+	height: 100px;
+	width: 100%;
+	
+}
+.footer .content .Location
+{
+	height: 100px;
+	width: 20%;
+	float: left;
+	padding-top: 10px;
+	
+	margin-left: 200px;
+}
+.footer .content .Contact1
+{
+	height: 100px;
+	width: 20%;
+	float: left;
+	margin-left: 80px;
+	padding-top: 10px;
+
+}
+.footer .content .Follows
+{
+	height: 100px;
+	width: 20%;
+	padding-top: 10px;
+	margin-right: 190px;
+	float: right;
+	
+}
+
+.footer .content .Follows i 
+{
+	font-size: 30px; 
+	margin-left: 10px;
+}
+
+.lastone
+{
+	height: 50px;
+	padding-top: 20px;
+	color: black;
+	width: 100%;
+	background-color: gray;
+}
+</style>
+  
+</head>
+<body>
+
+	<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">TD Online Course</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="#">Home</a></li>
+      <li><a href="myprofile.html">My profile</a></li>
+      <li><a href="#info">Information</a></li>
+      <li><a href="#education">Education</a></li>
+      <li><a href="#contactme">Contact</a></li>
+    </ul>
+  </div>
+</nav>
+<video src="1.mp4" autoplay width="100%" height="750px"></video>
+<!-- 1st page -->
+
+
+<div class="main6">
+<h1 class="main7">WHO We ARE</h1>
+<hr class="main8">
+<p>Lorem ipsum dolor sit amet consectetur adipisicing<br>sed do eiusmod
+tempor incididunt ut labore et dolore  .<br> Ut enim ad minim veniam,
+quis nostrud exercitation <br> nisi ut aliquip ex ea commodo
+consequat. Duis<br></p>
+<input type="submit" name=" " value="Book a call">
+<input type="submit" name=" " value="our works">
+</div>
+<div class="page2"> <img src="./image/1.jpg" height="500px" width="100%">
+</div>
+
+
+<!-- second page -->
+
+<div class="home3">
+
+<div ><img src="s12.jpeg" height="300px" width="300px" class="main9"></div>
+<div ><img src="s12.jpeg" height="300px" width="300px" class="main10"></div>
+<div ><img src="s12.jpeg" height="300px" width="300px" class="main11"></div>
+<img src="11.jpg" height="500px" width="100%">
+</div>
+<!-- Third page -->
+<div class="home4">
+<div class="main12">
+	<h1 class="main13">THE POWER OF BRANDING</h1>
+	<p class="main14">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+	tempor incididunt<br>et dolore magna aliqua. Ut enim ad minim veniam,
+	quis nostrud exercitation ullamco <br>laboris nisi ut aliquip ex ea commodo
+	consequat. Duis aute irure dolor in reprehenderit in volu<br>
+	cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non</p>
+</div>
+<div class="main15">
+  <div class="main16"><img src="./image/bra.jpg" class="main17"><h2 style="margin-top: 0px;"   ><center> Brand strategy</center> </h2><p class="main18">- Brand equity audit</p><p class="main18">-Audience analysis</p><p class="main18">-strategic direction</p> </div>
+
+<div class="main19"><img src="./image/ide.jpg" style="height: 200px; width: 200px;margin-left: 50px; margin-right: 50px; margin-top:50px; " ><h2 class="main20"><center> Brand identity</center> </h2><p class="main21">- visual positioning</p><p class="main21">-visual identity system</p><p class="n">-Brand application</p> </div>
+
+<div class="brand3" style="height: 400px; width: 275px; background-color: white;margin-left: 25px; float: left;"><img src="./image/comm.jpg" style="height: 200px; width: 200px;margin-left: 50px; margin-right: 50px; margin-top:50px; " ><h2 style="margin-top: 0px;"   ><center> communication strategy</center> </h2><p style="margin-left: 15px;">- verbal identity</p><p style="margin-left: 15px;">- Tagline exploration</p></div>
+	
+</div>
+	<img src="./image/22.jpg" height="800px" width="100%">
+</div>
+<!-- fourth page -->
+
+<div class="jumbotron text-center">
+  <h1>Architecting the digits </h1>
+  <p>The result of uour company branding process is a comphesive brand guidline that can be used to digits in marketing websites and others design assect like brand illustrations that reflect the new brand</p> 
+</div>
+  
+<div class="container5">
+  <div class="row">
+    <div class="col-sm-4">
+      <h3>Column 1</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit
+      Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
+    </div>
+    <div class="col-sm-4">
+      <h3>Column 2</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit
+      Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
+    </div>
+    <div class="col-sm-4">
+      <h3>Column 3</h3>        
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit 
+      Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
+    </div>
+    <div class="col-sm-4">
+      <h3>Column 4</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit
+      Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
+    </div>
+    <div class="col-sm-4">
+      <h3>Column 5</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+      Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
+    </div>
+    <div class="col-sm-4">
+      <h3>Column 6</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+      Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
+    </div>
+
+  </div>
+</div>
+
+<!-- Fifth page -->
+<div class="home5">
+	<div class="main22">
+<h1 class="main221">MEET THE TEAM</h1>
+<p class="main23">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod<br>
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,<br>
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat.</p>
+	</div>
+	<div class="main24">
+		<div class="main25"><img src="s11.jpeg" height="120" width="120" class="img-circle" style="margin-left: 10px; margin-top:20px;"><h1 style="margin-left: 30px; position: absolute;">sanjit</h1>
+		<p style="float: right; margin-left: 150px; margin-top: -100px;">Hi  My name is Sanjit Das  Son of mr. Kesho Das and miss shova Devi Das .I am basically from Bhardaha Saptari district Nepal.I am pursuing My B.Tech degree in computer science engineering from Aditya Engineering College.i have got a awards in Emerging Coder as well as the top 2nd in coding context which was given By Technical HUB.</p></div>
+
+		<div class="team2" style="height: 300px; width: 425px; background-color: white; float: right; margin-left: 25px;"><img src="sanjit.jpeg" height="120" width="120"  class="img-circle" style="margin-left: 10px; margin-top:20px;"> <h1 style="margin-left: 30px; position: absolute;">sanjit</h1>
+		<p style="float: right; margin-left: 150px; margin-top: -100px;">Hi  My name is Sanjit Das  Son of mr. Kesho Das and miss shova Devi Das .I am basically from Bhardaha Saptari district Nepal.I am pursuing My B.Tech degree in computer science engineering from Aditya Engineering College.i have got a awards in Emerging Coder as well as the top 2nd in coding context which was given By Technical HUB.</p> </div>
+	</div>
+
+	<img src="./image/9.jpg" height="600px" width="100%">
+</div>
+
+<!-- sixth page -->
+<div class="home6">
+	<div class="port" style="height:450px; width: 900px; position: absolute; margin-left: 100px; margin-top: 100px; background-color: gray;"> 
+ <div class="port1" style="height: 225px; width: 900px; background-color: pink;">
+ 	<div class="port11" style="height: 225px; width: 300px; background-color: green; float: left;">
+ 		<img src="./image/p1.jpg" height="225px" width="300px">
+ 	</div>
+ 	<div class="port12" style="height: 225px; width: 300px; background-color: yellowgreen; float: right;">
+ 				<img src="./image/p2.jpg" height="225px" width="300px">
+ 	</div>
+ 	<div class="port13" style="height: 225px; width: 300px; background-color: blue; float: left;">
+ 				<img src="./image/p3.jpg" height="225px" width="300px">
+ 	</div>
+ </div>
+
+<div class="port2" style="height: 225px; width: 900px; background-color: yellow;">
+	<div class="port21" style="height: 225px; width: 300px; background-color: white; float: left;">
+		<img src="./image/p4.jpg" height="225px" width="300px">
+
+	</div>
+	<div class="port22" style="height: 225px; width: 300px; background-color: palevioletred; float: right;">
+		<img src="./image/p5.jpg" height="225px" width="300px">
+
+	</div>
+	<div class="port23" style="height: 225px; width: 300px; background-color: orange; float: left;">
+		<img src="./image/p6.jpg" height="225px" width="300px">
+
+	</div>
+</div>
+
+	</div>
+	<img src="./image/p7.jpg" height="600px" width="100%">
+</div>
+<!-- last -->
+
+<!-- Foooter Code  -->
+<div id="contactme"></div>
+  <div class="footer">
+    <div class="text"> <h1><b>Get Our Free News Latter</b></h1></div>
+    <div class="text2"><h1><b>+ bonus Content</b></h1></div>
+    <div class="text3"><p>Immerse yourself in real-world learning. Gain the skills to excel in the world of business. Don't miss the application window for our world-renowned, interactive online courses. World-Class Content. Social Learning Platform. Unique Online Programs.</p></div>
+    
+    <div class="email">
+      <input type="text" name="" placeholder="Enter a valid email">
+      <input type="button" name="" value="Submit">
+    </div>
+
+    <p style="margin-left: 300px; margin-right: 300px; color: white; margin-top: 20px;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+    <div class="Contact">
+      <h1 style="margin-left:15%;">Location:</h1>
+      <h1 style="margin-left: 200px;">Contact:</h1>
+      <h1 style="margin-left: 200px;">Follows:</h1>
+    </div>
+    <div class="content">
+      <div class="Location">
+        <p style="color: white;">Bhardaha Saptari Nepal</p>
+        <p style="color: white;">Saptari, Nepal</p>
+      </div>
+      <div class="Contact1">
+         <p style="color: white;">sanjit9842@gmail.com</p>
+        <p style="color: white;">+91-6303783301</p>
+        <p style="color: white;">+977-9807058858</p>
+      </div>
+      <div class="Follows">
+         <a href="https://www.facebook.com/dassanjitkumar.das/"><i class="fa-brands fa-facebook"></i></a>
+          <a href="https://www.linkedin.com/in/sanjit-das-793372227/"><i class="fa-brands fa-linkedin" ></i></a>
+           <a href="  "><i class="fa-brands fa-twitter" ></i></a>
+            <a href="https://www.youtube.com/channel/UCLaYwupD4qdymQQMg4V9M2Q"><i class="fa-brands fa-youtube"></i></a>
+      </div>
+    </div>
+
+  </div>
+
+<div class="lastone">
+  <center><h4>Copyrighted by TD || Created by <a href="https://www.facebook.com/dassanjitkumar.das/">sanjit Das </a></h4></center>
+ 
+</div>
+</body>
+</html>
