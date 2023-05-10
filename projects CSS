@@ -1,0 +1,76 @@
+.home .main1
+{
+	height: 300px; 
+	width: 800px; 
+	position: absolute; 
+	background-color: gray; 
+	margin-left: 200px; 
+	margin-top: 100px;
+}
+
+.home2
+{
+	position: absolute; 
+	margin-left: 500px; 
+	margin-top: 60px;
+}
+
+.home3 .one
+{
+	position: absolute; 
+	margin-left: 100px; 
+	margin-top: 100px;
+}
+
+.home4
+{
+	position: absolute; 
+	margin-left: 350px; 
+	margin-top: 20px;
+}
+
+.home4 .brand 
+{
+	height: 400px; 
+	width: 900px; 
+	position: absolute;  
+	margin-top: 300px; 
+	margin-left: 200px;
+
+}
+
+.home4 .brand .brand1
+{
+	height: 400px; 
+	width: 300px; 
+	background-color: white; 
+	float: left;
+}
+
+.home4 .brand .brand1 img
+{
+	height: 200px; 
+	width: 200px; 
+	margin-left: 50px; 
+	margin-right: 50px; 
+	margin-top:50px;
+}
+
+.home4 .brand .brand11
+{
+	height: 400px; 
+	width: 275px; 
+	background-color:white;
+	margin-left:25px; 
+	float: right;
+}
+
+.home7 .last
+{
+	 height: 400px; 
+	 width: 800px; 
+	 margin-left:100px; 
+	 margin-top: 150px; 
+	 position: absolute;
+	 background-color: white;
+}
