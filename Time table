@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Time table</title>
+</head>
+<body>
+<h2 align="center">II CSE-B Time table</h2>
+<table align="center" border="2" cellpadding="10px" cellspacing="0px">
+<caption>This time table is only for CSE-B</caption>
+<tr>
+<td align="center" bgcolor="gold"><b>day/period</b></td>
+<td align="center"bgcolor="gold"><b>I<br>9:30-10:20</b></td>
+<td align="center" bgcolor="gold"><b>II<br>9:30-10:20</b></td>
+<td align="center" bgcolor="gold"><b>III<br>9:30-10:20</b></td>
+<td align="center" bgcolor="gold"><b>12:00-1:00</b></td>
+<td align="center" bgcolor="gold"><b>IV<br>9:30-10:20</b></td>
+<td align="center" bgcolor="gold"><b>V<br>9:30-10:20</b></td>
+<td align="center" bgcolor="gold"><b>VI<br>9:30-10:20</b></td>
+<td align="center" bgcolor="gold"><b>VII<br>9:30-10:20</b></td>	
+</tr>
+<tr>
+<td align="center" bgcolor="gold"><b>Monday</b></td>
+<td align="center" colspan="3">oops Using c++</td>
+<td align="center" bgcolor="gold" rowspan="6"><h4>L<br>U<br>N<br>C<br>H<br></h4></td>
+<td align="center" colspan="4">Os</td>
+</tr>
+<tr>
+<td align="center" bgcolor="gold"><b>Tuesday</b></td>
+<td align="center" colspan="3">oops Using c++</td>
+
+<td align="center" colspan="4">Os</td>
+</tr>
+<tr>
+<td align="center" bgcolor="gold"><b>Wednesday</b></td>
+<td align="center" colspan="3">oops Using c++</td>
+
+<td align="center" colspan="4">Os</td>
+</tr>
+<tr>
+<td align="center" bgcolor="gold"><b>Thursday</b></td>
+<td align="center">DM</td>
+<td align="center">ADS</td>
+<td align="center">DM</td>
+<td align="center">DM</td>
+<td align="center">SE</td>
+<td align="center">ADS</td>
+<td align="center">SE</td>
+</tr>
+<tr>
+<td align="center" bgcolor="gold"><b>friday</b></td>
+<td align="center">DM</td>
+<td align="center">ADS</td>
+<td align="center">SE</td>
+<td align="center">DM</td>
+<td align="center" colspan="3">Soc Lab</td>
+</tr>
+<tr>
+<td align="center" bgcolor="gold"><b>Saturday</b></td>
+<td align="center" colspan="3">USP LAB</td>
+<td align="center">DM</td>
+<td align="center">ADS</td>
+<td align="center">DM</td>
+<td align="center">DM</td>
+
+</tr>
+
+</table>
+</center>
+
+</body>
+</html>
