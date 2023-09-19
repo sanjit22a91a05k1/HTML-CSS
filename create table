@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>table creation</title>
+</head>
+<body>
+<center>
+<table border="10" bgcolor="red" cellspacing="5px" cellpadding="10px">
+    <caption>Table</caption>
+<tr>
+<th bgcolor="blue">S.NO</th>
+<th bgcolor="yellow">Name</th>
+<th bgcolor="white">Roll No.</th>
+</tr>
+<tr>
+<td>1.</td>
+<td>Sanjit</td>
+<td>22A91A05K1</td>
+</tr>
+<tr>
+<td>1.</td>
+<td>Sanjit</td>
+<td>22A91A05K1</td>
+</tr>
+<tr>
+<td>1.</td>
+<td>Sanjit</td>
+<td>22A91A05K1</td>
+</tr>
+</table>
+</center>
+</body>
+</html>
