@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>html form</title>
+</head>
+<body>
+	<h2 align="center">Student form</h2>
+	<form>
+		<label for="fname">first name:</label>
+		<input type="text" name="first name"><br><br>
+		<label>last name</label>
+		<input type="text" name="last name"><br><br>
+		<label>Date of birth</label>
+		<input type="Date" name=""><br><br>
+		Mobile <input type="number" name="" placeholder="phoneno."><br><br>
+		<label>Address</label>
+		<textarea id="add" rows="3" cols="8"></textarea><br><br>
+		User name<input type="text" name="" placeholder="user name"><br><br>
+		Password<input type="Password" name="pa" placeholder="**********"><br><br>
+		select your favourite language<br>
+		<select name="language">
+			<option> c programming</option>
+				<option >c++</option>
+				<option>java</option>
+				<option>python</option>
+		</select><br><br>
+		Select your mother tounge language<br>
+		Nepali <input type="checkbox" name="">
+		Maithily <input type="checkbox" name="">
+		English <input type="checkbox" name="">
+		<br><br>
+		select your favourite hero<br>
+		Sanjit <input type="radio" name="">
+		Satish<input type="radio" name="">
+		Pushpendra<input type="radio" name="">
+		<br><br>
+		<input type="submit" name="">
+
+
+	</form>
+
+</body>
+</html>
